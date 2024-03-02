@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro Henrique👋
 
-- 💰 Hoje estou trabalhando com Youtube
+- 💰 Trabalhando com Youtube
 - 👨‍🎓 Estudando: Python
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
